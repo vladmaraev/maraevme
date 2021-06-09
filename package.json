@@ -1,0 +1,26 @@
+{
+  "name": "vladislav-maraev",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vladislav Maraev",
+  "author": "Vlad Maraev",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.6.2",
+    "gatsby-plugin-gatsby-cloud": "^2.7.0",
+    "gatsby-plugin-google-analytics": "^3.7.0",
+    "gatsby-plugin-sass": "^4.7.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.34.1"
+  }
+}
