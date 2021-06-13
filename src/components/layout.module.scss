@@ -1,0 +1,133 @@
+$sans:    trade-gothic-next, sans-serif;
+$reddy: #be2828;
+$greydy: hsla(200, 33%, 25%, .50);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%
+}
+body {
+    // background-image: url("../assets/images/tree.jpg");
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // background-attachment: fixed;
+    height: 100%;
+	    background-color: rgba(240,240,255,0.95);
+
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 630px;
+  min-height: 100vh;
+  background-color: rgba(240,240,255,0.95);
+  padding: 2em;
+  font-family: kepler-std, serif;
+  font-variant: common-ligatures, oldstyle-nums;
+  font-feature-settings: "liga", "onum";
+}
+
+.flexbox {
+    margin-top: 2em;
+    display: flex;
+    align-items: baseline;
+    .aside {
+	background-color: $greydy;
+	color: white;
+	font-size: 0.9em;
+	font-family: $sans;
+	font-weight: 300;
+	margin-right: 2em;
+        flex: 30px;
+        text-align: left;
+	line-height: 1.2;
+	// border: 2px solid $reddy;
+	// border-radius: 0.5em;
+	padding: 0.5em;
+    }
+    .article {
+	flex: 6;
+	// border: 1px solid;
+    }
+}
+
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-family: $sans;
+    font-weight: 300;
+    margin-block-end: 2em;
+    font-size: 1.2em;
+    .nav-link-item {
+    }
+    .nav-link-text {
+	font-weight: normal;
+	color: black;
+    }
+    .nav-link-text-active {
+	color: $reddy;
+    }
+
+}
+
+h2 {
+    font-family: $sans;
+    font-weight: 300;
+    font-size: 1.3em;
+    text-decoration: solid underline  $greydy 2px;
+}
+
+p {
+    margin-block-end: 0.5em;
+    font-size: 1.3em;
+    line-height: 1.4;
+}
+
+.portrait {
+    margin-top: 2em;
+}
+
+.paper {
+    .title {
+	font-weight: normal;
+	color: $reddy;
+	color: hsl(200, 33%, 37%);
+	// text-decoration: solid underline  $reddy 2px;
+    }
+    .authors {
+    }
+    .date {
+    }
+    .journal {
+	font-style: italic;
+    }
+}
+
+
+// .heading {
+//     color: $reddy;
+//     font-family: sans-serif;
+//     margin-block-start: 0em;
+//     margin-block-end: 0em;
+//     font-size: 2em;
+//     font-weight: lighter;
+//     letter-spacing: -0.05em;
+//     font-family: $sans;
+//     // text-shadow: 1px 1px 1px red,
+//     // 		 2px 2px 10px yellow;
+// }
+
+// .subheading {
+//     color: black;
+//     font-family: $sans;
+//     margin-block-start: 0.0em;
+//     margin-block-end: 1em;
+//     font-weight: lighter;
+// }
+

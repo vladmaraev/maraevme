@@ -1,0 +1,69 @@
+#+ORGA_PUBLISH_KEYWORD: DONE
+* DONE PhD project: laughter-infused spoken dialogue systems
+The focus of my PhD project is laughter in interaction, therefore
+my research question is ‘why we laugh’ as in ‘what makes us laugh’,
+‘what do we do with laughter’ and ‘how is it placed relative to
+speech’. Laughter is pervasive in our everyday interactions: the
+dialogue part of British National Corpus contains approximately one
+laughter for every 14 turns. Laughter can convey a wide spectrum of
+emotions: from amusement and joy to aggression and social
+anxiety. Also laughter has an important social function: it creates
+social bonding between people, which also means that others can get
+excluded from this group. 
+
+The main desired outcome of the project is a proof-of-concept system
+that would be able to test theoretical insights about laughter in
+conversation.
+
+The potential of this project involves making future robots more
+reactive to laughter. This will make them behave more naturally and
+will also bring empathy and emotion into the interaction, that provide
+important social functions, including assistance, education,
+companionship to elderly. We all need friendly and nice robots taking
+to our grandmothers, right?
+
+
+* DONE Bot of Solicitude
+/with Natalia Nikulenkova and Petr Mitsov/
+
+[[https://www.youtube.com/watch?v=6RN4B5Z88TQ][YouTube video]]
+
+The world of an autistic person is fragile. Any divergence from the typical set of actions which seem simple to a neurotypical person might put this world on a verge of falling into pieces. The fragility is concerned with difficulty of adapting familiar scripted actions to minor changes of a situation. The script vanishes and the line that establishes the sequence of actions tears apart. 
+
+Autistic people perceive their tasks as sets of isolated actions and they follow a long path towards the goal, due to the difficulty to capture a set of actions as a whole. They have difficulties with combining different actions, therefore they need the help of the Other. In the Union of Convalescents’ project the role of the Other is played by a computer program “Bot of Solicitude”.
+
+The “Bot of Solicitude” project aims at diminishing the barriers that prevent autistic people’s participation in social life. These barriers are associated with the difficulty of accepting the social environment. Virtual interlocutor helps to handle intimidating alterations of the environment and accept it through bringing the schemes of action in common situations: doing grocery shopping, bumping into a police officer or an aggressive stranger. 
+
+The “Bot of Solicitude” — the virtual interlocutor called Diana — accumulates social interaction of specific people which are, in this case, a philosopher Anna Mitrofanova and her son Mark. Diana is a pink-haired programmer who makes music — that’s how Mark wanted her to be. The incentive to talk to her is Mark’s special interest: the United States and its architecture. Diana, on the other hand, can help Mark to overcome his fixation on one topic through offering different conversational situations. 
+
+The “Bot of Solicitude” reminds us that we need to expand our social imagination and create support infrastructures for different people. Our work draws attention to the fact that the support is necessary not only for autistic people but also to those who need to be near them all the time, devoting all their free time to solicitude. 
+
+One may look at our project through cyberfeminism lens — at the technology with its mission to help the family of a person who needs special care. Our project is also critical to the status quo of contemporary art which intends either to disappear or to shock, but certainly not to be useful. Our criticism is derived from the practical attitude of our project which lies between social experiment, media art and science art.
+
+* Other
+** Humorous incongruity
+/with Ellen Breitholz, Christine Howes, Staffan Larsson and Robin Cooper/
+
+We treat humorous situations as a series of events
+underpinned by topoi, principles of reasoning recognised within a
+socio-cultural community. We claim that humorous effect in jokes and
+other discourse is often created by the juxtaposition of topoi
+evoked. A prerequisite for this is that there is a shift where the
+interpreter of the discourse updates their information state with
+regard to a second topos being evoked. This view of humour is
+consistent with an incremental analysis of dialogue, and we therefore
+argue that interaction is central both for humour creation and
+interpretation. We point out some different ways in which topoi are
+juxtaposed in humorous dialogues as well as in jokes published in
+social media or in joke books, and take jokes from the coronavirus
+pandemic as an example because this makes lots of new topoi available
+and therefore offers the opportunity of creating novel jokes based on
+the juxtaposition of the new and existing topoi. 
+
+** Implementing KoS
+/with Jean-Phillipe Bernardy, Jonathan Ginzburg, Staffan Larsson, Ye Tian and Christine Howes/
+** Predicting laughter
+/with Jean-Phillipe Bernardy and Christine Howes/
+** Laughter placement
+/with Arash Eshghi, Julian Hough, Christine Howes and Chiara Mazzocconi/
+** 
