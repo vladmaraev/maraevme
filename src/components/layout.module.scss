@@ -79,10 +79,12 @@ body {
 }
 
 h2 {
-    font-family: $sans;
-    font-weight: 300;
+    font-weight: normal;
+    // color: hsla(200, 33%, 25%, .85);
+    text-decoration: dotted underline  $reddy 2px;
+    
+    // font-family: $sans;
     font-size: 1.3em;
-    text-decoration: solid underline  $greydy 2px;
 }
 
 p {
@@ -99,7 +101,7 @@ p {
     .title {
 	font-weight: normal;
 	// color: hsla(200, 33%, 25%, .85);
-	text-decoration: solid underline  $greydy 2px;
+	text-decoration: dotted underline  $reddy 2px;
     }
     .authors {
     }

@@ -22,6 +22,22 @@ important social functions, including assistance, education,
 companionship to elderly. We all need friendly and nice robots taking
 to our grandmothers, right?
 
+So far, I looked at the following:
+
+** Machine learning algorithms outperform humans in the task of predicting laughter in dialogue
+/with Jean-Phillipe Bernardy and Christine Howes/
+  
+** Laughter can improve dialogue act recognition
+/with Bill Noble/
+
+** Formalising humorous incongruity in dialogue within a computational framework
+/with Ellen Breitholz, Christine Howes, Staffan Larsson and Robin Cooper/
+  
+** Implementing KoS-based dialogue manager
+/with Jean-Phillipe Bernardy, Jonathan Ginzburg, Staffan Larsson, Christine Howes and Ye Tian/
+  
+** How can we integrate laughter with its antecedent
+/with Arash Eshghi, Julian Hough, Christine Howes and Chiara Mazzocconi/
 
 * DONE Bot of Solicitude
 /with Natalia Nikulenkova and Petr Mitsov/
@@ -41,29 +57,5 @@ The “Bot of Solicitude” reminds us that we need to expand our social imagina
 One may look at our project through cyberfeminism lens — at the technology with its mission to help the family of a person who needs special care. Our project is also critical to the status quo of contemporary art which intends either to disappear or to shock, but certainly not to be useful. Our criticism is derived from the practical attitude of our project which lies between social experiment, media art and science art.
 
 * Other
-** Humorous incongruity
-/with Ellen Breitholz, Christine Howes, Staffan Larsson and Robin Cooper/
 
-We treat humorous situations as a series of events
-underpinned by topoi, principles of reasoning recognised within a
-socio-cultural community. We claim that humorous effect in jokes and
-other discourse is often created by the juxtaposition of topoi
-evoked. A prerequisite for this is that there is a shift where the
-interpreter of the discourse updates their information state with
-regard to a second topos being evoked. This view of humour is
-consistent with an incremental analysis of dialogue, and we therefore
-argue that interaction is central both for humour creation and
-interpretation. We point out some different ways in which topoi are
-juxtaposed in humorous dialogues as well as in jokes published in
-social media or in joke books, and take jokes from the coronavirus
-pandemic as an example because this makes lots of new topoi available
-and therefore offers the opportunity of creating novel jokes based on
-the juxtaposition of the new and existing topoi. 
-
-** Implementing KoS
-/with Jean-Phillipe Bernardy, Jonathan Ginzburg, Staffan Larsson, Ye Tian and Christine Howes/
-** Predicting laughter
-/with Jean-Phillipe Bernardy and Christine Howes/
-** Laughter placement
-/with Arash Eshghi, Julian Hough, Christine Howes and Chiara Mazzocconi/
 ** 
