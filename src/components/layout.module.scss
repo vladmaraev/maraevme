@@ -74,6 +74,7 @@ body {
     }
     .nav-link-text-active {
 	color: $reddy;
+	text-decoration: none;
     }
 
 }
@@ -101,7 +102,7 @@ p {
     .title {
 	font-weight: normal;
 	// color: hsla(200, 33%, 25%, .85);
-	text-decoration: dotted underline  $reddy 2px;
+	// text-decoration: dotted underline  $reddy 2px;
     }
     .authors {
     }
@@ -110,8 +111,28 @@ p {
     .journal {
 	font-style: italic;
     }
+    .button {
+	// border: 0px solid;
+	font-family: $sans;
+	font-size: 0.7em;
+        font-weight: 400;
+	padding: 0.1em 0.2em;
+	// border-radius: 3px;
+	vertical-align: baseline;
+	text-decoration: none;
+	color: black;
+	// background-color: $greydy;
+
+    }
+    .button:hover {
+	color: black;
+	text-decoration: solid underline  $reddy 2px;
+    }
 }
 
+a:hover {
+	text-decoration: solid underline  $reddy 2px;
+}
 
 // .heading {
 //     color: $reddy;

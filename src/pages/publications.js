@@ -50,7 +50,8 @@ date,
 journal,
 booktitle,
 raw,
-    url
+    url,
+    poster {publicURL}
   		}
   	}
   }	
