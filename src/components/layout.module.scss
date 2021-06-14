@@ -126,12 +126,15 @@ p {
     }
     .button:hover {
 	color: black;
-	text-decoration: solid underline  $reddy 2px;
+	text-decoration: solid underline  $reddy;
+	text-decoration-thickness: 2px;
+
     }
 }
 
 a:hover {
-	text-decoration: solid underline  $reddy 2px;
+    text-decoration: solid underline  $reddy;
+    text-decoration-thickness: 2px;
 }
 
 // .heading {
