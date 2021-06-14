@@ -11,12 +11,12 @@ html {
     height: 100%
 }
 body {
-    // background-image: url("../assets/images/tree.jpg");
-    // background-repeat: no-repeat;
-    // background-size: cover;
-    // background-attachment: fixed;
-    height: 100%;
-	    background-color: rgba(240,240,255,0.95);
+    background-image: url("../assets/images/tree.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    // height: 100%;
+    // 	    background-color: rgba(240,240,255,0.95);
 
 }
 
@@ -24,7 +24,8 @@ body {
   margin: 0 auto;
   max-width: 630px;
   min-height: 100vh;
-  background-color: rgba(240,240,255,0.95);
+  background-color: rgba(240,240,255,0.90);
+  backdrop-filter: blur(6px);
   padding: 2em;
   font-family: kepler-std, serif;
   font-variant: common-ligatures, oldstyle-nums;
@@ -35,19 +36,21 @@ body {
     margin-top: 2em;
     display: flex;
     align-items: baseline;
+    flex-flow: row wrap;
     .aside {
-	background-color: $greydy;
-	color: white;
-	font-size: 0.9em;
+	// background-color: hsla(200, 33%, 25%, .85);
+	// color: white;
+	//padding: 0.5em;
+
+	font-size: 1em;
 	font-family: $sans;
-	font-weight: 300;
+	font-weight: 400;
 	margin-right: 2em;
         flex: 30px;
         text-align: left;
 	line-height: 1.2;
 	// border: 2px solid $reddy;
 	// border-radius: 0.5em;
-	padding: 0.5em;
     }
     .article {
 	flex: 6;
@@ -61,7 +64,6 @@ body {
     justify-content: space-between;
     list-style: none;
     font-family: $sans;
-    font-weight: 300;
     margin-block-end: 2em;
     font-size: 1.2em;
     .nav-link-item {
@@ -90,15 +92,14 @@ p {
 }
 
 .portrait {
-    margin-top: 2em;
+    margin: 1em 0;
 }
 
 .paper {
     .title {
 	font-weight: normal;
-	color: $reddy;
-	color: hsl(200, 33%, 37%);
-	// text-decoration: solid underline  $reddy 2px;
+	// color: hsla(200, 33%, 25%, .85);
+	text-decoration: solid underline  $greydy 2px;
     }
     .authors {
     }

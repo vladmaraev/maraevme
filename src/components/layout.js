@@ -25,7 +25,7 @@ const Layout = ({ pageTitle, children }) => {
 			<li className={navLinkItem}>
 			    <Link to="/" className={navLinkText}
 				  activeClassName={navLinkTextActive}>
-				Vladislav Maraev
+				Vladislav<br/> Maraev
 			    </Link>
 			</li>
 			<li className={navLinkItem}>

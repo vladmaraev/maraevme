@@ -24,11 +24,11 @@ const PublicationsPage = ({
     return (
 	<Layout pageTitle="Publications">
 	    <div className={flexbox}>
-		<aside className={aside}>articles</aside>
+		<aside className={aside}>Journal articles</aside>
 		<article className={article}>{Articles}</article>
 	    </div>
 	    <div className={flexbox}>
-		<aside className={aside}>conference papers</aside>
+		<aside className={aside}>Conference papers</aside>
 		<article className={article}>{Papers}</article>
 	    </div>
 	</Layout>);
