@@ -51,7 +51,8 @@ journal,
 booktitle,
 raw,
     url,
-    poster {publicURL}
+    poster {publicURL},
+    file {publicURL}
   		}
   	}
   }	

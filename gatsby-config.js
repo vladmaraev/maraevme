@@ -26,13 +26,6 @@ module.exports = {
       {
 	  resolve: `gatsby-source-filesystem`,
 	  options: {
-	      name: `posters`,
-	      path: `${__dirname}/src/assets/publications/posters`,
-	  },
-      },
-      {
-	  resolve: `gatsby-source-filesystem`,
-	  options: {
 	      name: `org`,
 	      path: `${__dirname}/src/assets/org`,
 	  },

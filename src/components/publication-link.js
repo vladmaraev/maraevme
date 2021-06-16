@@ -21,7 +21,9 @@ String.prototype.debib =  function( s ) {
 
 const PublicationLink = ({ publication }) => (
     <p className={paper}>
-	<Link className={title} to={publication.url}>{publication.title.debib()}</Link>
+	<Link className={title} href={publication.file ? publication.file.publicURL : publication.url}>
+	    {publication.title.debib()}
+	</Link>
 	{'. '}<span className={authors}>{publication.authors.slice(0,-1).map((a)=>a.debib()).join(", ")} and {publication.authors.slice(-1)[0].debib()}</span>
         {' '}<span className={date}>({publication.date})</span>
         {'. '}<span className={journal}>{publication.booktitle || publication.journal}</span>
