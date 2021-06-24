@@ -1,6 +1,7 @@
 $sans:    trade-gothic-next, sans-serif;
 $reddy: #be2828;
 $greydy: hsla(200, 33%, 25%, .50);
+$links: rgb(83, 101, 35);
 
 * {
     margin: 0;
@@ -113,23 +114,32 @@ p {
     }
     .button {
 	// border: 0px solid;
-	font-family: $sans;
-	font-size: 0.7em;
+	// border: 3px solid #aaa;
+	// font-family: $sans;
+	font-size: 0.9em;
         font-weight: 400;
-	padding: 0.1em 0.2em;
-	// border-radius: 3px;
+	padding: 0 0.2em 0.1em;
+	border-radius: .2em;
 	vertical-align: baseline;
 	text-decoration: none;
-	color: black;
-	// background-color: $greydy;
+	// color: black;
+	
+	// background-color: #aaa;
+	font-variant: all-small-caps;
 
     }
     .button:hover {
-	color: black;
+	// border: 3px solid $reddy;
 	text-decoration: solid underline  $reddy;
 	text-decoration-thickness: 2px;
 
     }
+}
+
+
+a {
+    color: $links;
+    text-decoration: none;
 }
 
 a:hover {

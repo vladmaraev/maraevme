@@ -28,8 +28,12 @@ const PublicationLink = ({ publication }) => (
         {' '}<span className={date}>({publication.date})</span>
         {'. '}<span className={journal}>{publication.booktitle || publication.journal}</span>
 	{'. '}
+	{publication.youtube &&
+         <a href={publication.youtube} className={button}>video</a>
+        
+        }
 	{publication.poster &&
-         <a href={publication.poster.publicURL} className={button}>(poster)</a>
+         <a href={publication.poster.publicURL} className={button}>poster</a>
         
         }
     </p>

@@ -52,7 +52,8 @@ booktitle,
 raw,
     url,
     poster {publicURL},
-    file {publicURL}
+    file {publicURL},
+    youtube
   		}
   	}
   }	
