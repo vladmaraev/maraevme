@@ -22,22 +22,20 @@ important social functions, including assistance, education,
 companionship to elderly. We all need friendly and nice robots taking
 to our grandmothers, right?
 
-So far, I looked at the following:
+# So far, I looked at the following:
 
-** Machine learning algorithms outperform humans in the task of predicting laughter in dialogue
-/with Jean-Phillipe Bernardy and Christine Howes/
+# - Machine learning algorithms outperform humans in the task of predicting laughter in dialogue (/with Jean-Phillipe Bernardy and Christine Howes/)
   
-** Laughter can improve dialogue act recognition
-/with Bill Noble/
+# /with Bill Noble/
 
-** Formalising humorous incongruity in dialogue within a computational framework
-/with Ellen Breitholz, Christine Howes, Staffan Larsson and Robin Cooper/
+# -  Formalising humorous incongruity in dialogue within a computational framework
+# /with Ellen Breitholz, Christine Howes, Staffan Larsson and Robin Cooper/
   
-** Implementing KoS-based dialogue manager
-/with Jean-Phillipe Bernardy, Jonathan Ginzburg, Staffan Larsson, Christine Howes and Ye Tian/
+# -  Implementing KoS-based dialogue manager
+# /with Jean-Phillipe Bernardy, Jonathan Ginzburg, Staffan Larsson, Christine Howes and Ye Tian/
   
-** How can we integrate laughter with its antecedent
-/with Arash Eshghi, Julian Hough, Christine Howes and Chiara Mazzocconi/
+# -  How can we integrate laughter with its antecedent
+# /with Arash Eshghi, Julian Hough, Christine Howes and Chiara Mazzocconi/
 
 * DONE Bot of Solicitude
 /with Natalia Nikulenkova and Petr Mitsov/

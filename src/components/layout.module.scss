@@ -1,7 +1,7 @@
-$sans:    trade-gothic-next, sans-serif;
+$sans:    bligh, sans-serif;
 $reddy: #be2828;
 $greydy: hsla(200, 33%, 25%, .50);
-$links: rgb(83, 101, 35);
+$links: #100295;
 
 * {
     margin: 0;
@@ -28,7 +28,7 @@ body {
   background-color: rgba(240,240,255,0.90);
   backdrop-filter: blur(6px);
   padding: 2em;
-  font-family: kepler-std, serif;
+  font-family: bressay, serif;
   font-variant: common-ligatures, oldstyle-nums;
   font-feature-settings: "liga", "onum";
 }
@@ -83,8 +83,7 @@ body {
 h2 {
     font-weight: normal;
     // color: hsla(200, 33%, 25%, .85);
-    text-decoration: dotted underline  $reddy 2px;
-    
+    // text-decoration: dotted underline  $reddy 2px;
     // font-family: $sans;
     font-size: 1.3em;
 }
@@ -129,10 +128,9 @@ p {
 
     }
     .button:hover {
-	// border: 3px solid $reddy;
+	color: black;
 	text-decoration: solid underline  $reddy;
 	text-decoration-thickness: 2px;
-
     }
 }
 
@@ -143,6 +141,7 @@ a {
 }
 
 a:hover {
+    color: black;
     text-decoration: solid underline  $reddy;
     text-decoration-thickness: 2px;
 }
