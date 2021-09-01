@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/xmarvl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://maraev.me
+  * I am xmarvl (https://keybase.io/xmarvl) on keybase.
+  * I have a public key ASALcjDKVfh0Eds0kjqRzkOL6It56U3-tdDTGzHN120THgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200b7230ca55f87411db34923a91ce438be88b79e94dfeb5d0d31b31cdd76d131e0a",
+      "host": "keybase.io",
+      "kid": "01200b7230ca55f87411db34923a91ce438be88b79e94dfeb5d0d31b31cdd76d131e0a",
+      "uid": "e6948fbfca1d966344e1a5287895f619",
+      "username": "xmarvl"
+    },
+    "merkle_root": {
+      "ctime": 1630516073,
+      "hash": "b41a476adc2261175b59392067d60dcc5262b7f0b1e0f639673eb5f60581f360ac94b052272e7f5fa6f6637d768f2c1b847a1457c2d5600784c0d9d8fffe17ef",
+      "hash_meta": "a5c3f522cf10b6ad2aea886dce7335c3bd76b42ab74dc761fb82cf747e40b310",
+      "seqno": 20680649
+    },
+    "service": {
+      "entropy": "oMb+lVvnFGxP1iOQ/P4d+9NY",
+      "hostname": "maraev.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1630516084,
+  "expire_in": 504576000,
+  "prev": "af4f3f0a393c397fdf6cb013b9d17b10fffe57e558dcb5a00f61d01f542c3cf3",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgC3IwylX4dBHbNJI6kc5Di+iLeelN/rXQ0xsxzddtEx4Kp3BheWxvYWTESpcCDMQgr08/Cjk8OX/fbLATudF7EP/+V+VY3LWgD2HQH1QsPPPEIHm5XjFlOXBasp3vcF2deNAX4tO6V6t3GCWQhMc4BniWAgHCo3NpZ8RAbETqtYhyOyRGP435LX9RiLxeTIaUm5eE3Cr4deUHOvZTg9vkylYLC3JdLxme+nQcuHfAYxxSC/cAg+XIBbmvBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIACr1iNghxdheJPtpv2aCYkePWxzLwnG8Zth9F4SoWFYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xmarvl
+
+==================================================================
