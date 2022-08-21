@@ -6,7 +6,11 @@ import {
     portrait,
     flexbox,
     aside,
-    article
+    article,
+    navLinks,
+    navLinkItem,
+    navLinkText,
+    navLinkTextActive
 } from '../components/layout.module.scss'
 const IndexPage = () => {
   return (
@@ -27,6 +31,18 @@ one of the by-products of this is, I believe, a better AI.
 		       placeholder="tracedSVG"
 		       />	  
 	    <div className={flexbox}>
+		<aside className={aside}>News</aside>
+		<article className={article}>
+		    <p>29.08.2022:&nbsp;<Link to="/defence" className={navLinkText}
+						      activeClassName={navLinkTextActive}>
+						    PhD defence
+			    </Link>
+
+		    </p>
+                </article>
+	    </div>
+
+	  <div className={flexbox}>
 		<aside className={aside}>Affiliation</aside>
 		<article className={article}>
 		    <p><i>(2017&ndash;Present)</i> <a href="https://www.gu.se/en/about/find-staff/vladislavmaraev">PhD student</a> at <a href="https://gu-clasp.github.io">Centre for Linguistic Theory and Studies in Probability (CLASP)</a>, Department of Philosophy, Linguistics and Theory of Science, University of Gothenburg, Sweden</p>
