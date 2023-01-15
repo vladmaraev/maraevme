@@ -19,15 +19,15 @@ module.exports = {
       {
 	  resolve: `gatsby-source-filesystem`,
 	  options: {
-	      name: `documents`,
-	      path: `${__dirname}/src/assets/publications`,
+	      name: `org`,
+	      path: `${__dirname}/src/assets/org`,
 	  },
       },
       {
 	  resolve: `gatsby-source-filesystem`,
 	  options: {
-	      name: `org`,
-	      path: `${__dirname}/src/assets/org`,
+	      name: `publications`,
+	      path: `${__dirname}/src/assets/publications/`,
 	  },
       },
       'gatsby-transformer-bibtex',
