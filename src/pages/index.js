@@ -30,17 +30,6 @@ one of the by-products of this is, I believe, a better AI.
 				alt="Vlad" className={portrait}
 		       placeholder="tracedSVG"
 		       />	  
-	    <div className={flexbox}>
-		<aside className={aside}>News</aside>
-		<article className={article}>
-		    <p>29.08.2022:&nbsp;<Link to="/defence" className={navLinkText}
-						      activeClassName={navLinkTextActive}>
-						    PhD defence
-			    </Link>
-
-		    </p>
-                </article>
-	    </div>
 
 	  <div className={flexbox}>
 		<aside className={aside}>Affiliation</aside>
@@ -53,7 +42,9 @@ one of the by-products of this is, I believe, a better AI.
 		<aside className={aside}>Contact</aside>
 		<article className={article}>
 		    <p>[name].[surname]@gu.se<br/>
-		    Twitter: <a href="https://twitter.com/xmarvl">@xmarvl</a></p>
+		    Twitter: <a href="https://twitter.com/xmarvl">@xmarvl</a><br/>
+		    Mastodon: <a rel="me" href="https://mastodon.social/@xmarvl">@xmarvl@mastodon.social</a>
+		    </p>
 
                 </article>
 	    </div>
