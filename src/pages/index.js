@@ -34,7 +34,8 @@ one of the by-products of this is, I believe, a better AI.
 	  <div className={flexbox}>
 		<aside className={aside}>Affiliation</aside>
 		<article className={article}>
-		    <p><i>(2017&ndash;Present)</i> <a href="https://www.gu.se/en/about/find-staff/vladislavmaraev">PhD student</a> at <a href="https://gu-clasp.github.io">Centre for Linguistic Theory and Studies in Probability (CLASP)</a>, Department of Philosophy, Linguistics and Theory of Science, University of Gothenburg, Sweden</p>
+		    <p><i>(2022&ndash;Present)</i><a href="https://www.gu.se/en/about/find-staff/vladislavmaraev">Postdoctoral researcher</a> at Dept. of Applied IT, Division of Cognition & Communication</p>
+		    <p><i>(2017&ndash;2022)</i>PhD student at <a href="https://gu-clasp.github.io">Centre for Linguistic Theory and Studies in Probability (CLASP)</a>, Department of Philosophy, Linguistics and Theory of Science, University of Gothenburg, Sweden</p>
 		    <p><i>(2016&ndash;2017)</i> Research Assistant at <a href="http://nlx.di.fc.ul.pt">NLX Group</a>, University of Lisbon, Portugal</p>
                 </article>
 	    </div>
