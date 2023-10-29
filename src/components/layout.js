@@ -29,10 +29,7 @@ const Layout = ({ pageTitle, children }) => {
 			    </Link>
 			</li>
 			<li className={navLinkItem}>
-			    <Link to="/projects" className={navLinkText}
-				  activeClassName={navLinkTextActive}>
 				projects
-			    </Link>
 			</li>
 			<li className={navLinkItem}>
 			    <Link to="/publications" className={navLinkText}
